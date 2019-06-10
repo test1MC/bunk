@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="da" xml:lang="da" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="11" flattenSnippets="false" SelectedTarget="" SourceControlBound="false">
+    <ProjectFile Source="Target/SC-Flare.flprj" Target="Target/SC-Flare.flprj" />
+    <TMConnection Connection="LingoLocal.db" ReadOnly="false" Type="StandAlone" />
+</LingoProject>
